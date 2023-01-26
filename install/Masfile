@@ -1,0 +1,64 @@
+# Mac App Store
+
+# Apple iWork
+mas "GarageBand", id: 682658836
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "iMovie", id: 408981434
+
+# Development
+mas "Xcode", id: 497799835
+mas "Another Desktop Manager", id: 1516451072
+mas "Petrify", id: 1451177988
+mas "Hex Fiend", id: 1342896380
+mas "SnippetsLab", id: 1006087419
+
+# Tool
+mas "Vision", id: 1572457968
+mas "Just Focus", id: 1142151959
+mas "Magnet", id: 441258766
+mas "Screen Recorder by Omi", id: 1592987853
+mas "DaisyDisk", id: 411643860
+mas "WiFi Signal", id: 525912054
+mas "Twilar", id: 1511758159
+mas "MindSpace", id: 1585502524
+mas "MarginNote 3", id: 1423522373
+mas "Xnip", id: 1221250572
+mas "Equinox", id: 1591510203
+mas "Enpass", id: 732710998
+mas "MWeb Pro", id: 1403919533
+mas "Futubull", id: 664513913
+mas "TestFlight", id: 899247664
+mas "MoneyWiz 3", id: 1012291524
+
+# Communication
+mas "WeChat", id: 836500024
+
+# Photo
+mas "Pixelmator Pro", id: 1289583905
+
+# Safari Extensions
+mas "xSearch", id: 1579902068
+mas "Vimari", id: 1480933944
+mas "Stay", id: 1591620171
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
